@@ -1,0 +1,23 @@
+{
+  "name": "gateways",
+  "version": "0.0.0",
+  "description": "A frontend tool for connect backend api.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruoru/gateways.git"
+  },
+  "keywords": [
+    "gateway",
+    "gateways"
+  ],
+  "author": "ruoru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruoru/gateways/issues"
+  },
+  "homepage": "https://github.com/ruoru/gateways#readme"
+}
